@@ -4,6 +4,7 @@ Name: 	PROJECT JOURNEY <br />
 Version: 	1.0 <br />
 Description:  Created as a website for an app called Journey, a software designed to optimize routes for food organizations such as Food4kids, made for the WIEHackathon. <br />
 Author: 	Megan <br />
+Website live at: https://mw-171.github.io/project_journey/ <br />
 
 Changelog:
 -----------------------
